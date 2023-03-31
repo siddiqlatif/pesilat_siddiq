@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    background-color: #dce0e6;
+    border-style: none;
+}
+#tableSiswa td {
+    padding: 20px;
+}
+#tableSiswa th {
+    padding: 20px;
+}
+
+.profilePicture {
+    height: 200px;
+    width: 200px;
+}
+a {
+    text-decoration: none;
+}
